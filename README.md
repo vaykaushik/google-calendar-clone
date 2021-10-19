@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 What was the goal of this project?
 
 To learn more about the useContext hook within React and how it can be used in conjunction with the useState and useEffect hooks.
@@ -9,3 +10,6 @@ What was the process behind it?
 2 - Used the useContext hook in the form of 'GlobalContext' within app.js to dynamically update the relevant days, months and year based on whether the user clicks on the right or left button.
 
 3 - The ContextWrapper which contains the useContext, useState and useEffect is then imported into index.js and used throughout the entire app.
+=======
+A work in progress project cloning the Google Calendar UI and using dayjs' library for functionality.
+>>>>>>> 1e33662813e16ddc7b0dfaa851a4e3e34ae2a413
